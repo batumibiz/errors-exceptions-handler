@@ -1,9 +1,9 @@
 # A simple PHP Error and Exception Handler
 
-[![License](https://poser.pugx.org/mobicms/mobicms-captcha/license)](https://packagist.org/packages/mobicms/mobicms-captcha)
-[![Latest Stable Version](https://poser.pugx.org/mobicms/mobicms-captcha/v/stable)](https://packagist.org/packages/mobicms/mobicms-captcha)
-[![Latest Unstable Version](https://poser.pugx.org/mobicms/mobicms-captcha/v/unstable)](https://packagist.org/packages/mobicms/mobicms-captcha)
-[![Total Downloads](https://poser.pugx.org/mobicms/mobicms-captcha/downloads)](https://packagist.org/packages/mobicms/mobicms-captcha)
+[![License](https://poser.pugx.org/mobicms/mobicms-error-handler/license)](https://packagist.org/packages/mobicms/mobicms-error-handler)
+[![Latest Stable Version](https://poser.pugx.org/mobicms/mobicms-error-handler/v/stable)](https://packagist.org/packages/mobicms/mobicms-error-handler)
+[![Latest Unstable Version](https://poser.pugx.org/mobicms/mobicms-error-handler/v/unstable)](https://packagist.org/packages/mobicms/mobicms-error-handler)
+[![Total Downloads](https://poser.pugx.org/mobicms/mobicms-error-handler/downloads)](https://packagist.org/packages/mobicms/mobicms-error-handler)
 
 This library is part of [mobiCMS](https://mobicms.org) Content Management System, but can be used as an independent library in other projects.
 
