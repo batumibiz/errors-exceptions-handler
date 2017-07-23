@@ -1,0 +1,28 @@
+{
+  "name": "mobicms/mobicms-error-handler",
+  "description": "mobiCMS, Error and Exception Handler package",
+  "type": "library",
+  "homepage": "https://github.com/mobicms/mobicms-error-handler",
+  "license": "MIT",
+  "keywords": [
+    "mobicms",
+    "error",
+    "exception"
+  ],
+  "authors": [
+    {
+      "name": "Oleg Kasyanov",
+      "email": "dev@mobicms.net",
+      "homepage": "http://mobicms.net"
+    }
+  ],
+  "require": {
+    "php": "^7.0",
+    "geshi/geshi": "^1.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Mobicms\\Error\\": "src/"
+    }
+  }
+}
