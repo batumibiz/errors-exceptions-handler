@@ -1,7 +1,7 @@
 {
   "name": "mobicms/mobicms-error-handler",
   "description": "mobiCMS, Error and Exception Handler package",
-  "type": "library",
+  "type": "mobicms-core",
   "homepage": "https://github.com/mobicms/mobicms-error-handler",
   "license": "MIT",
   "keywords": [
