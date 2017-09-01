@@ -8,7 +8,7 @@
  * @copyright   Copyright (C) mobiCMS Community
  */
 
-namespace Mobicms\Error;
+namespace Mobicms\Errors;
 
 use Throwable;
 

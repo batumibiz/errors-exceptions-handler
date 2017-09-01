@@ -1,8 +1,8 @@
 {
-  "name": "mobicms/mobicms-error-handler",
-  "description": "mobiCMS, Error and Exception Handler package",
-  "type": "mobicms-core",
-  "homepage": "https://github.com/mobicms/mobicms-error-handler",
+  "name": "mobicms/errors-exceptions-handler",
+  "description": "mobiCMS, Error and Exception Handler",
+  "type": "library",
+  "homepage": "https://github.com/mobicms/errors-exceptions-handler",
   "license": "MIT",
   "keywords": [
     "mobicms",
@@ -22,7 +22,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Mobicms\\Error\\": "src/"
+      "Mobicms\\Errors\\": "src/"
     }
   }
 }
